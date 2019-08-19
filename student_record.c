@@ -217,6 +217,7 @@ void search()
             break;
         }
     }
+	
     if(stu_found == 1)
 	{
 		sleep(2);
@@ -354,11 +355,11 @@ int main()
     chk_compat();
 
 	printf(YELLOW "\n\t\t* * * * * * * * * * * * * * * * * * * * * * * * * * * *");
-	printf("\n\t\t*             Student Database - SJBIT                *");
-	printf("\n\t\t*        Project By Anirudh M P & Abhishek N          *");
+	printf("\n\t\t*             Student Record Management System        *");
+	printf("\n\t\t*        Project By 0x41 & 41alderson                 *");
 	printf("\n\t\t*           USN: 1JB18CS015 & 1JB18CS005              *");
 	printf("\n\t\t*             Special Thanks To: NONE                 *");
-	printf("\n\t\t* * * * * * * * * * * * * * * * * * * * * * * * * * * *\n" RESET);
+	printf("\n\t\t* * * * * * * * * * * * * * * * * * * * * * * * * * * *" RESET);
 	sleep(3);
 
 	printf(RED "\n\t\t\t\tMenu\n" RESET);
