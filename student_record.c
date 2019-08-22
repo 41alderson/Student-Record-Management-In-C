@@ -53,7 +53,7 @@ void chk_compat()
 	else
 	{
 		printf(RED "\nCurrently The Script Supports OS Using Linux Kernels Only.\n");
-		printf("\nContact 1JB18CS005 (Abhishek N) To Add Support For Other OS\n" RESET);
+		printf("\nIf You Want Me To Add Support For Other OS Contact Me @destroyerani41 On Telegram\n" RESET);
 		sleep(2);
 		exit(0);
 	}
