@@ -15,6 +15,7 @@
 #define RESET   "\x1b[0m"
 
 int main();
+
 void found(char usn[15]);
 
 struct student
